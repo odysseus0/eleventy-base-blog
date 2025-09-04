@@ -9,8 +9,6 @@ tags:
   - builder-wisdom
 ---
 
-# How I Learned to Stop Engineering and Trust the Model
-
 *From 1000+ lines of over-engineered code to 60 lines of prompt - and better results*
 
 I built an elaborate system to convert text to structured data, process it through a map/reduce pipeline, then convert it back to text.
