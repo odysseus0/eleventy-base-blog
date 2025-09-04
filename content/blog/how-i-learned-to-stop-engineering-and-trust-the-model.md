@@ -1,6 +1,6 @@
 ---
 title: How I Learned to Stop Engineering and Trust the Model
-description: A journey from 1000+ lines of over-engineered code to 300 lines and better results - discovering when to let the model lead instead of trying to architect intelligence.
+description: From 1000+ lines of over-engineered code to 60 lines of prompt. The story of discovering that everything I knew about software engineering was wrong for AI systems.
 date: 2025-08-12
 tags: 
   - technical-report
@@ -11,7 +11,7 @@ tags:
 
 # How I Learned to Stop Engineering and Trust the Model
 
-*A journey from 1000+ lines of over-engineered code to 300 lines and better results*
+*From 1000+ lines of over-engineered code to 60 lines of prompt - and better results*
 
 I built an elaborate system to convert text to structured data, process it through a map/reduce pipeline, then convert it back to text.
 
@@ -189,4 +189,4 @@ Every line of code I wrote to control the model was a line that prevented it fro
 
 The less I said about how, the better it delivered.
 
-*The final system: 300 lines of data plumbing and one prompt. The model does the rest. The team loves it. I should have started there.*
+*The final system: 60 lines of prompt. The model does the rest. The team loves it. I should have started there.*
